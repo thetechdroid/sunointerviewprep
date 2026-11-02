@@ -1,0 +1,27 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Local IDE state, Kotlin caches, and original project archive
+/.idea/
+/.kotlin/
+/Suno-Interview-v3.zip
+
+# Local credentials and signing files
+.env
+.env.*
+*.jks
+*.keystore
+keystore.properties
+local.properties
